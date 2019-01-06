@@ -20,4 +20,4 @@
 
 ## Trickier questions
 
-4. Would your answer to number 3 work on Apple's OS X operating system?  If no, do you have any idea why not? 
+7. Would your answer to number 3 work on Apple's OS X operating system?  If no, do you have any idea why not? 
