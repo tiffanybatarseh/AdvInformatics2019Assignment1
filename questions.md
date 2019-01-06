@@ -7,7 +7,7 @@
 2. In general, how do you know how many processors, how much RAM, how many files would be required/needed/written by the
    jobs you are running on the cluster?
 3. In order to be a "good citizen", you need to have some idea of much RAM your job requires.  In particular, you need
-   to know the "peak" (i.e., maximum) RAM required at any point during execution.  Show an example of the bash command
+   to know the "peak" (i.e., maximum) RAM required at any point during execution.  Show an example of the shell command
    that you would use on a Linux machine to measure run time and peak ram usage of an arbitrary command, where the time/peak RAM values are written to a file.
 4. What are the units of your answer for number 3?
 5. What are the bash commands for the following operations:
